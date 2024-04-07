@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## Introduction
-  안녕하세요
+  안녕하세요 이은주입니다
+
+## Career
 <!--
 **eunnnju/eunnnju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
