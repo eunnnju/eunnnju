@@ -1,7 +1,4 @@
-### Hi there 👋
-
-## Introduction
-  안녕하세요 이은주입니다
+### Hi there 👋 I'm Eunju Lee!
 
 ## Career
 <!--
