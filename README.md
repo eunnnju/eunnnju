@@ -3,12 +3,11 @@
 ### 이력
 영남대학교 컴퓨터공학과
 
-
 ### 연락처
 📫 이메일 sbsdy3@gmail.com
 
 <br>
-[![eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username={eunnnju}&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username={sbsdy3}&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
