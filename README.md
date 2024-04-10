@@ -9,7 +9,7 @@
 <br>
 [![eunnnju's GitHub stats](https://github-readme-stats.vercel.app/api?username={eunnnju}&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-![sbsdy3's github stats](https://github-readme-stats.vercel.app/api?username=sbsdy3&show_icons=true)
+![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
 
 
 
