@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Eunju Lee!
 
-## Career
+## 이력
+영남대학교 컴퓨터공학과
+
+## 연락처
+sbsdy3@gmail.com
 <!--
 **eunnnju/eunnnju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
