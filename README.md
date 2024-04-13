@@ -5,7 +5,7 @@
 <br>
 
 ### 연락처
-📫 이메일 sbsdy3@gmail.com
+📧 이메일 sbsdy3@gmail.com
 
 <br>
 
