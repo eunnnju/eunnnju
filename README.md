@@ -9,12 +9,10 @@
 
 <br>
 
-<div align="center">
-  ![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
-
+<div align="center">![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
 </div>
-<!-- ![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
- -->
+![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
+
 
 
 <!--
