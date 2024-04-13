@@ -11,9 +11,8 @@
 
 <!-- <div align="center">![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
 <!-- </div> -->
-<div algin="center">![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
-</div>
-![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)
+<div algin="center">![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true)</div>
+<!-- ![eunnnju's github stats](https://github-readme-stats.vercel.app/api?username=eunnnju&show_icons=true) -->
 
 
 
